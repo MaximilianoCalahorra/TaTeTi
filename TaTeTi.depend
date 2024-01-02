@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1704157375 source:d:\portafolio\c\tateti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"tateti.h"
+
+1704157368 d:\portafolio\c\tateti\tateti.h
+
